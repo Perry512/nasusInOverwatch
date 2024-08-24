@@ -1,12 +1,6 @@
 import React from 'react';
 import hanamura from './Hanamura1.jpg';
 
-const style = StyleSheet.create({
-  container: {
-    flex:1
-  }
-})
-
 const urls = [
     'https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Nasus_Original_QAttack_0.ogg/',
     'https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Nasus_Original_QAttack_1.ogg/',
@@ -15,7 +9,7 @@ const urls = [
 
 
 ]
-function playAudio(url) {
+function play() {
 
     const randomIndex = Math.floor(Math.random() * urls.length);
     const randomURL = urls[randomIndex];
@@ -29,7 +23,7 @@ function playAudio(url) {
 const NasusContent = () => {
 
   const handleImageClick = () => {
-    playAudio();
+    play();
   };
 
   return (
