@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nasusInOverwatch/static/css/main.f855e6bc.css",
-    "main.js": "/nasusInOverwatch/static/js/main.f52d6bc2.js",
+    "main.js": "/nasusInOverwatch/static/js/main.99eaac08.js",
     "static/js/453.8a4610ac.chunk.js": "/nasusInOverwatch/static/js/453.8a4610ac.chunk.js",
     "static/media/Hanamura1.jpg": "/nasusInOverwatch/static/media/Hanamura1.ce39bf23167a02402f44.jpg",
     "index.html": "/nasusInOverwatch/index.html",
     "main.f855e6bc.css.map": "/nasusInOverwatch/static/css/main.f855e6bc.css.map",
-    "main.f52d6bc2.js.map": "/nasusInOverwatch/static/js/main.f52d6bc2.js.map",
+    "main.99eaac08.js.map": "/nasusInOverwatch/static/js/main.99eaac08.js.map",
     "453.8a4610ac.chunk.js.map": "/nasusInOverwatch/static/js/453.8a4610ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f52d6bc2.js"
+    "static/js/main.99eaac08.js"
   ]
 }
